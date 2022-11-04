@@ -1,0 +1,16 @@
+__pycache__
+tmp
+.mypy_cache
+log
+*.log
+scripts/*.png
+temp_show_result_scripts
+train.txt
+root.txt
+nohup.out
+*.npy
+default*
+outputs
+*.txt
+*.sh
+output_dir
